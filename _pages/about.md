@@ -12,4 +12,4 @@ I am an economist, currently working as a research associate at the University o
 My research interests are in the areas of applied microeconomics more specifically environmental, agricultural, health and behavioural economics.
 
  [!NOTE]
-# New website link (https://mariasuerod.github.io/) 
+# [New website link ](https://mariasuerod.github.io/) 
